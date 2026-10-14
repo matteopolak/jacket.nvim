@@ -1,12 +1,12 @@
 ---SHA-256 checksums of the release archives, written by the release workflow.
 return {
-  version = '0.17.0',
+  version = '0.15.0',
   sha256 = {
-    ['jai-linux-arm64.tar.gz'] = '0aa3f16566eea1200a89559024a65be9ba639e4ceb3beec30a8731f3495bf898',
-    ['jai-linux-x64.tar.gz'] = '21718880b122ac9a23b9d35b763ce658e2ab2bf05958bb4c022c572e552be89e',
-    ['jai-macos-arm64.tar.gz'] = '36e7e0c70c91847e80deccc540b2803a3aac6ba10a8668496549e93db4e2267c',
-    ['jai-macos-x64.tar.gz'] = 'ba131f14bbda421be610dc084a4609d99da21470f20e0e35e444b5699d87dbf3',
-    ['jai-windows-arm64.zip'] = '0c0c199d559d3203f5b1b6ab0f863c48614496bd094f42d5a6fa5b0648603d5e',
-    ['jai-windows-x64.zip'] = 'f65d376a1ba4376be839eec91f24340415510efbcd141c41d7d02a586182b7de',
+    ['jai-linux-arm64.tar.gz'] = '29b52717b60e7d20f651cadb8634cab149effb1cecf40dd40118ebbe4fc835d1',
+    ['jai-linux-x64.tar.gz'] = '00e3d53c686880b63b1c49e2dc31ae9b60ad59a0e49325cd88b2a96f186cc21c',
+    ['jai-macos-arm64.tar.gz'] = '09861fbeffa2931116680f75b373c52f3256f26f05f66ea121b5720b3b466f75',
+    ['jai-macos-x64.tar.gz'] = 'de4af2a2821803d11c70099d937442a3c2aa790d7e98eeb7f9986fd0299e9015',
+    ['jai-windows-arm64.zip'] = '398da33947bc006c68812c89ed800bae83b5b1431ad1288de1684e0524cad797',
+    ['jai-windows-x64.zip'] = '4296e130363fe57bcddc5055660fb83c0d92090625876c43dec2b170a9915d61',
   },
 }
