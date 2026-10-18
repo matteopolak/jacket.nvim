@@ -1,12 +1,12 @@
 ---SHA-256 checksums of the release archives, written by the release workflow.
 return {
-  version = '0.14.1',
+  version = '0.18.0',
   sha256 = {
-    ['jai-linux-arm64.tar.gz'] = '70f33e0950d6c78501c47358d21cec4b0314be905c1fa6fb8bc4cf43cff59161',
-    ['jai-linux-x64.tar.gz'] = 'bc6b821d014ed528fb105b5f7a03e7dd884e4fe1f55a5b1bb3b284c20504762f',
-    ['jai-macos-arm64.tar.gz'] = '2693205c89edc3491099154a9e47c41bfeadb082c1760441d15a0f922ccae394',
-    ['jai-macos-x64.tar.gz'] = '1a88ea372cbd06a55a0a2f4949d9881e96b7096aad2fe37ccbc14ec8acf3c31b',
-    ['jai-windows-arm64.zip'] = '24831fec428ea197a2949efeea5c4dbc4163c3124166e13bd8af120fb741249d',
-    ['jai-windows-x64.zip'] = '1d330783553b5fc943e3833a83f2bfda660733efb9076b29ab72735fea59efa1',
+    ['jacket-linux-arm64.tar.gz'] = 'd54e8e2a0266469f8b3e16f8a9504bb95399316e105e630b1427e5cf2ceb3381',
+    ['jacket-linux-x64.tar.gz'] = '2df8639a4d7f21f70fb36e19dd16ff619abc608706724b78aa9b464c7c45331b',
+    ['jacket-macos-arm64.tar.gz'] = '078472d54c1538bee8143b2c2abeb32bd24901a93314e904a6948bffaef614f8',
+    ['jacket-macos-x64.tar.gz'] = 'ab4c21879a371d829a41b6269c6c2008b51290d1732fbb31035c2cfac69ec8e2',
+    ['jacket-windows-arm64.zip'] = '91e162ddf91b4d38364048d7fd125051801fd6c48613a8825f9de460e01f72cd',
+    ['jacket-windows-x64.zip'] = '14ec675f751b753c5f00c55b623bdfa0e29cd449c8376a590600e01416807612',
   },
 }
