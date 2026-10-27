@@ -7,7 +7,7 @@ local M = {}
 
 M.REPOSITORY = 'matteopolak/jacket'
 M.RELEASES_URL = 'https://github.com/' .. M.REPOSITORY .. '/releases'
-M.TOOLS = { 'jaic', 'jailsp', 'jailint', 'jaifmt' }
+M.TOOLS = { 'jaic', 'jailsp', 'jailint', 'jaifmt', 'jacket' }
 
 ---The release archive for a machine (`uv.os_uname()` values), or nil without a prebuilt one.
 ---@param sysname string
@@ -235,7 +235,7 @@ function M.install(opts, done)
   local pinned = opts.pinned
   if pinned and pinned.version == opts.version then
     if not pinned.sha256[asset] then
-      return fail(('jaic %s has no %s release archive'):format(opts.version, asset))
+      return fail(('Jacket %s has no %s release archive'):format(opts.version, asset))
     end
     return download_and_check(pinned.sha256[asset])
   end
