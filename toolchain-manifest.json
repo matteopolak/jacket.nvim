@@ -1,11 +1,11 @@
 {
-  "version": "0.35.2",
+  "version": "0.35.3",
   "sha256": {
-    "jacket-linux-arm64.tar.gz": "59e0fe2dacc2692c858172aafe4960593ad8c3cd2292b9570a3b880fc2dddd67",
-    "jacket-linux-x64.tar.gz": "e4fd48ebecb89b55ba4b20a8ee62a8abde36628a2100e0113927776b3b90082c",
-    "jacket-macos-arm64.tar.gz": "dc552d835d876503838f74bbffe57c924bc9872427d9429faedd10ff357c0821",
-    "jacket-macos-x64.tar.gz": "2042e37ba5d73926dd7e7ae833c39296278499873ece502993cabeebf2644423",
-    "jacket-windows-arm64.zip": "21bc62d55b657c7a4ebc3bf3151e52cc95b740fcd625f85891928bcd47819ff9",
-    "jacket-windows-x64.zip": "597af7e9d509394dcffaf1d155a7c73ae80775d705caf77b46e2012c3abfc710"
+    "jacket-linux-arm64.tar.gz": "4f5b2c35add308be4205df81c8e7877f4f6bf9a49bf3861cfdd2b0241e0e11f0",
+    "jacket-linux-x64.tar.gz": "8cb1b9c2c3446358b3bd120d72b0661dea00cae96e8b103415a71cb99fdaab81",
+    "jacket-macos-arm64.tar.gz": "91257b3ecde06e7f0bbe78f25cf0c574b19f6d8a3ec678c39dc49c6ea534e8f6",
+    "jacket-macos-x64.tar.gz": "f64d6efb4c2297ab87240e514dda7cfebbd01f9cd6b79b4000b958189af44144",
+    "jacket-windows-arm64.zip": "d8e1df873a690950ae2ff32fa16314ce96e8b2345750c788496bdb2a346e43d7",
+    "jacket-windows-x64.zip": "f56f15911d4ca8743c44d59776b0116bf69f9c14d2064ddf4b357e6e0910cb4e"
   }
 }
